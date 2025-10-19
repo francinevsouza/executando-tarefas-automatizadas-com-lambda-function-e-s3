@@ -23,7 +23,6 @@ O laboratório teve como propósito:
 | [`notes/boaspraticas.md`](notes/boaspraticas.md) | Padrões de IaC e segurança. |
 | [`notes/insights.md`](notes/insights.md) | Aprendizados e reflexões. |
 | [`notes/arquitetura.md`](notes/arquitetura.md) | Diagrama e explicação da arquitetura criada. |
-| [`notes/exemplos-templates.md`](notes/exemplos-templates.md) | Exemplos de templates YAML/JSON. |
 
 ---
 
